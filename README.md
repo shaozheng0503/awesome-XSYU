@@ -92,6 +92,16 @@
 
 项目地址：[https://github.com/shaozheng0503/XSYU-Mobile-Movie-Ticket-Management-System](https://github.com/shaozheng0503/XSYU-Mobile-Movie-Ticket-Management-System)
 
+​​**职工管理系统 (Staff-Manage-system)​​——C++大作业**
+该项目由[@Utopia-a](https://github.com/Utopia-a)  开发，是一个基于C++的企业职工信息管理系统。它实现了文件读写持久化、增删改查、数据清空及排序等核心功能，完美融合了C++封装、重载、多态等面向对象特性。通过此项目，开发者可深入掌握代码模块化管理技巧，积累中规模项目实战经验，并巩固编程基础。特别适合初学者通过实战深化C++理解。
+
+项目地址：https://github.com/Utopia-a/Staff-Manage-system
+
+**​​图书馆管理系统 (Library_Management_System_wjhxsuer)​​——数据库课设**
+这是一个由 [@Utopia-a](https://github.com/sUtopia-a)  设计的可视化图书管理工具，采用C#与Winform构建。系统提供完整的图书借阅管理、用户权限控制和数据库操作功能，通过模块化设计实现了直观的图形交互界面。项目附带数据库设计方案，可作为Winform开发入门范例，帮助初学者快速掌握C#可视化开发全流程。
+
+项目地址：https://github.com/Utopia-a/Library_Management_System_wjhxsuer（Gitee镜像：https://gitee.com/utopia_w/library-management-system）
+
 ## 3. 欢迎贡献
 
 我们热烈欢迎每一位同学分享你的项目或想法。目前我们有一个超过 200 人的技术社群和一个 30 余人的开源交流群，非常期待能有好的项目在这里交流与碰撞。
