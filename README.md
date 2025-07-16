@@ -1,5 +1,22 @@
 # Awesome XSYU
 
+<p align="center">
+  <a href="https://github.com/shaozheng0503/awesome-XSYU/stargazers"><img src="https://img.shields.io/github/stars/shaozheng0503/awesome-XSYU?style=for-the-badge" alt="Stars"></a>
+  <a href="https://github.com/shaozheng0503/awesome-XSYU/network/members"><img src="https://img.shields.io/github/forks/shaozheng0503/awesome-XSYU?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/shaozheng0503/awesome-XSYU/issues"><img src="https://img.shields.io/github/issues/shaozheng0503/awesome-XSYU?style=for-the-badge" alt="Issues"></a>
+  <a href="https://github.com/shaozheng0503/awesome-XSYU/pulls"><img src="https://img.shields.io/github/issues-pr/shaozheng0503/awesome-XSYU?style=for-the-badge" alt="Pull Requests"></a>
+  <a href="https://github.com/shaozheng0503/awesome-XSYU/graphs/contributors"><img src="https://img.shields.io/github/contributors/shaozheng0503/awesome-XSYU?style=for-the-badge" alt="Contributors"></a>
+  <a href="https://github.com/shaozheng0503/awesome-XSYU/commits/main"><img src="https://img.shields.io/github/commit-activity/m/shaozheng0503/awesome-XSYU?style=for-the-badge" alt="Commit Activity"></a>
+  <a href="https://github.com/shaozheng0503/awesome-XSYU/blob/main/LICENSE"><img src="https://img.shields.io/github/license/shaozheng0503/awesome-XSYU?style=for-the-badge" alt="License"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shaozheng0503/awesome-XSYU/graphs/traffic"><img src="https://img.shields.io/badge/流量趋势-点击查看-blue?style=flat-square" alt="流量趋势"></a>
+  <a href="https://github.com/trending"><img src="https://img.shields.io/badge/GitHub%20Trends-全球趋势-orange?style=flat-square" alt="GitHub Trends"></a>
+  <a href="https://gitee.com/explore"><img src="https://img.shields.io/badge/Gitee-开源趋势-red?style=flat-square" alt="Gitee Trends"></a>
+  <a href="https://deepwiki.cn/"><img src="https://img.shields.io/badge/DeepWiki-技术解析-9cf?style=flat-square" alt="DeepWiki"></a>
+</p>
+
 欢迎来到 Awesome XSYU！这是一个旨在汇总西安石油大学 (XSYU) 所有相关优质开源项目的仓库。我们致力于发掘和展示来自西石大师生和校友的优秀项目，方便大家学习和使用，并共同建设一个活跃的校园开源社区。
 
 本项目的 GitHub 仓库地址：[https://github.com/shaozheng0503/awesome-XSYU](https://github.com/shaozheng0503/awesome-XSYU)
@@ -92,38 +109,64 @@
 
 项目地址：[https://github.com/shaozheng0503/XSYU-Mobile-Movie-Ticket-Management-System](https://github.com/shaozheng0503/XSYU-Mobile-Movie-Ticket-Management-System)
 
-​​**职工管理系统 (Staff-Manage-system)​​——C++大作业**
-该项目由[@Utopia-a](https://github.com/Utopia-a)  开发，是一个基于C++的企业职工信息管理系统。它实现了文件读写持久化、增删改查、数据清空及排序等核心功能，完美融合了C++封装、重载、多态等面向对象特性。通过此项目，开发者可深入掌握代码模块化管理技巧，积累中规模项目实战经验，并巩固编程基础。特别适合初学者通过实战深化C++理解。
+**职工管理系统 (Staff-Manage-system)——C++大作业**
+
+该项目由 [@Utopia-a](https://github.com/Utopia-a) 开发，是一个基于 C++ 的企业职工信息管理系统。它实现了文件读写持久化、增删改查、数据清空及排序等核心功能，完美融合了 C++ 封装、重载、多态等面向对象特性。通过此项目，开发者可深入掌握代码模块化管理技巧，积累中规模项目实战经验，并巩固编程基础。特别适合初学者通过实战深化 C++ 理解。
 
 项目地址：https://github.com/Utopia-a/Staff-Manage-system
 
-**​​图书馆管理系统 (Library_Management_System_wjhxsuer)​​——数据库课设**
-这是一个由 [@Utopia-a](https://github.com/sUtopia-a)  设计的可视化图书管理工具，采用C#与Winform构建。系统提供完整的图书借阅管理、用户权限控制和数据库操作功能，通过模块化设计实现了直观的图形交互界面。项目附带数据库设计方案，可作为Winform开发入门范例，帮助初学者快速掌握C#可视化开发全流程。
+**图书馆管理系统 (Library_Management_System_wjhxsuer)——数据库课设**
 
-项目地址：https://github.com/Utopia-a/Library_Management_System_wjhxsuer（Gitee镜像：https://gitee.com/utopia_w/library-management-system）
+这是一个由 [@Utopia-a](https://github.com/sUtopia-a) 设计的可视化图书管理工具，采用 C# 与 Winform 构建。系统提供完整的图书借阅管理、用户权限控制和数据库操作功能，通过模块化设计实现了直观的图形交互界面。项目附带数据库设计方案，可作为 Winform 开发入门范例，帮助初学者快速掌握 C# 可视化开发全流程。
 
-## 3. 欢迎贡献
+项目地址：https://github.com/Utopia-a/Library_Management_System_wjhxsuer（Gitee 镜像：https://gitee.com/utopia_w/library-management-system）
 
-我们热烈欢迎每一位同学分享你的项目或想法。目前我们有一个超过 200 人的技术社群和一个 30 余人的开源交流群，非常期待能有好的项目在这里交流与碰撞。
+**大二数据库课设-java (computer_system)**
 
-如果你希望将自己的项目添加到 Awesome XSYU，请直接在本仓库中 **[创建一个 Issue](https://github.com/shaozheng0503/awesome-XSYU/issues/new)**，并按照模板提供项目的相关信息。我们会尽快审核并添加。
+该项目由 [@suxuchao](https://github.com/suxuchao) 开发，是西安石油大学大二数据库课程设计的完整实践案例。项目采用 Java 技术栈，涵盖数据库建模、后端开发与基本前端交互，适合作为数据库课程学习、项目实战和代码规范参考。项目文档详实，代码结构清晰，便于同学们快速上手和二次开发。
 
-期待你的贡献，让我们共同为西石大的开源生态添砖加瓦！
+- Gitee 地址：[https://gitee.com/suxuchao/computer_system](https://gitee.com/suxuchao/computer_system)
+- GitHub 地址：[https://github.com/suxuchao/computer_system](https://github.com/suxuchao/computer_system)
 
-## 4. 开源孵化器
 
-🔹 **群2：「开源孵化器｜针对学校各类场景从0到1做开源项目实战营」**
+> 你可以通过 DeepWiki 技术解析页面，深入了解该项目的架构、技术细节与最佳实践，助力你的数据库课设和 Java 项目开发。
 
-我们正在积极运营一个开源项目实战社群，旨在帮助同学们从零开始，将想法落地为真实的开源项目。
+---
 
-> 🌱 **真实项目**：像「智能电费系统」一样，做出能解决实际问题的项目。
->
-> 🛠️ **通关技能**：在这里，你将有机会实操 Git、学习产品设计、锻炼需求分析与攻坚能力。
->
-> 🎯 **角色任选**：无论你是想入门学习、为项目出谋划策，还是亲自上手编码，我们都热烈欢迎你的加入！
->
-> ✨ **唯一规则**：别怕自己是新手，我们只怕你不敢迈出第一步！
+## 6. GitHub 组件与协作建议
 
-## 5. 联系我们
+为了更好地协作和学习，建议大家充分利用 GitHub 提供的各类组件：
 
-如果你对本项目感兴趣，希望贡献自己的项目，或者有任何建议，都可以通过以下方式联系发起人。你可以通过 QQ (158482852)、CSDN (时雨h)、微信公众号 (少日拏云) 或直接添加微信 (hsz18182685876) 来找到他。 
+- **Issues**：用于反馈 bug、提出新需求、记录待办事项，是项目沟通的首选渠道。
+- **Pull Requests**：协作开发的核心，支持代码审查、讨论和合并，欢迎大家多多提交 PR 参与共建。
+- **Actions**：自动化 CI/CD 流程，帮助项目实现自动测试、部署和质量保障。
+- **Wiki**：可用于补充项目文档、教程、FAQ 等，方便团队成员和新手快速了解项目。
+- **Discussions**：适合头脑风暴、经验交流、技术问答，欢迎大家畅所欲言。
+- **Projects**：可视化管理任务和进度，适合多人协作和大型项目。
+- **Releases**：用于发布正式版本，方便用户获取稳定包和更新日志。
+
+建议同学们多用这些功能，不仅能提升协作效率，还能积累宝贵的开源项目经验。
+
+---
+
+让我们一起让西安石油大学（XSYU）的开源生态变得更好！本仓库收录的所有项目均遵循学生手册和开源协议，内容合法合规，欢迎大家放心学习与交流。 
+
+---
+
+## 7. DeepWiki 技术解析推荐
+
+[DeepWiki](https://deepwiki.cn/) 是一个专注于开源项目技术解析的平台，支持对 GitHub 上的开源仓库进行自动化结构梳理、代码解读和知识图谱生成。对于新手同学来说，DeepWiki 有如下优势：
+
+- **一键解析**：只需将 GitHub 项目地址中的 github.com 换成 deepwiki.cn/github.com，即可进入该项目的深度解析页面。
+- **结构梳理**：自动生成项目目录结构、模块关系和依赖图，帮助你快速了解项目全貌。
+- **代码解读**：对核心模块、关键函数和主流程进行中文解读，降低阅读门槛。
+- **知识图谱**：可视化展示项目中的类、函数、文件之间的关联，便于系统性学习。
+- **新手友好**：无需高深编程基础，也能通过可视化和解读内容快速上手。
+
+**典型用法举例：**
+
+- 以 `computer_system` 项目为例，直接访问：[https://deepwiki.cn/github.com/suxuchao/computer_system](https://deepwiki.cn/github.com/suxuchao/computer_system)
+- 浏览项目结构、阅读自动生成的中文解读，结合源码理解设计思路。
+- 利用知识图谱查找模块间关系，辅助二次开发或课程学习。
+
+> 推荐大家在学习和参与开源项目时，多用 DeepWiki 辅助理解和查阅，提升学习效率，少走弯路！ 
