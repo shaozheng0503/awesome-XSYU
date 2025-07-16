@@ -119,7 +119,8 @@
 
 这是一个由 [@Utopia-a](https://github.com/sUtopia-a) 设计的可视化图书管理工具，采用 C# 与 Winform 构建。系统提供完整的图书借阅管理、用户权限控制和数据库操作功能，通过模块化设计实现了直观的图形交互界面。项目附带数据库设计方案，可作为 Winform 开发入门范例，帮助初学者快速掌握 C# 可视化开发全流程。
 
-项目地址：https://github.com/Utopia-a/Library_Management_System_wjhxsuer（Gitee 镜像：https://gitee.com/utopia_w/library-management-system）
+项目地址：https://github.com/Utopia-a/Library_Management_System_wjhxsuer
+Gitee 镜像：https://gitee.com/utopia_w/library-management-system
 
 **大二数据库课设-java (computer_system)**
 
